@@ -52,7 +52,6 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots of your running application here_
 
 | Home Page | Products | Product Detail | Cart |
 |-----------|----------|---------------|------|
@@ -178,15 +177,15 @@ comii-lex/
 ## 👤 Author
 
 **Ravindu Jeewantha**  
-📧 [Your Email]  
-🌐 [Your Portfolio]  
-🐙 [Your GitHub]
+📧 ravindujeewantha492@gmail.com  
+🌐   
+🐙 https://github.com/Ravindu-Jeewantha
 
 ---
 
 ## 📄 License
 
-MIT License — feel free to use for your portfolio or learning projects.
+MIT License — feel free to use for learning projects.
 
 ---
 
